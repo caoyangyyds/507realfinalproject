@@ -22,8 +22,8 @@ def save_cache(cache):
     cache_file.close()
 
 
-cid="fa2d0dca91814ec8b8f14bf49d02bc56"
-secret="f580bdbfb7f04d35b0b6faccf55c5231"
+cid="f"
+secret="f"
 auth_manager=SpotifyClientCredentials(client_id=cid,client_secret=secret)
 sp=spotipy.Spotify(auth_manager=auth_manager)
 
