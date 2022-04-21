@@ -23,3 +23,5 @@ I use tree to save the data. The rank of the singer will be the key of the tree,
 
 Interaction and Presentation Plans：
 First, the users will be asked which singer they want to see in this top 100 list, and they choose one or a range. In the Flask home page, I will show the result of the singer/singers. After then, I will ask which singer you want to see his/her/their detail information. In the Flask/detail page, I will present a table including this singer’s top ten songs with the danceability, energy and tempo information.
+
+Demo link: https://youtu.be/FfhzuUEUZlQ
